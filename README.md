@@ -4,7 +4,7 @@
 
 <p align="center">
   <b>OnionHEN DPI v2 Plugin</b><br/>
-  Browser-based remote package installer for OnionHEN
+  Browser-based remote package installer for OnionHEN 
 </p>
 
 <p align="center">
